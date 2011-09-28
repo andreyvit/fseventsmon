@@ -12,6 +12,12 @@ Uses FSEvents to monitor changes on your Mac's file system:
     ...
 
 
+Installing
+==========
+
+Either build it from source (see below), or [download fseventsmon-1.0.zip](https://github.com/downloads/andreyvit/fseventsmon/fseventsmon-1.0.zip), extract it and copy into `/usr/local/bin` (pre-built binary works on 64-bit Macs only).
+
+
 Building
 --------
 
